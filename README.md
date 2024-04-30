@@ -1,2 +1,2 @@
-# threejs-demo
-第三人称漫游
+# FirstPersonCameraControl
+A first person camera control for three.js
